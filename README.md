@@ -5,7 +5,7 @@ Projede Python dili ve OpenCV kütüphanesi kullanılmıştır.
 
 ---
 
-## 📚 İçindekiler
+## İçindekiler
 - [Proje Açıklaması](#proje-açıklaması)
 - [Gauss Gürültüsü](#gauss-gürültüsü)
 - [Tuz-Biber Gürültüsü](#tuz-biber-gürültüsü)
@@ -36,7 +36,7 @@ Gauss gürültüsü, görüntüdeki piksellerin rastgele sapmalar göstermesiyle
 > - Sigma genellikle **5 ile 50** arası değer alır.
 
 📸 **Görseller:**
-- ![Orijinal Görsel](Gürültülü%20filtreli%20ve%20orjinal%20resimler/orijinal.png)
+- ![Orijinal Görsel](Gürültülü%20filtreli%20ve%20orjinal%20resimler/orjinal.png)
 - ![Gauss Gürültülü Görsel](Gürültülü%20filtreli%20ve%20orjinal%20resimler/gauss.png)
 
 ---
@@ -48,7 +48,7 @@ Bazı piksellerin tamamen siyah (0) veya beyaz (255) olmasıyla oluşur.
 - Rastgele seçilen koordinatlar değiştirilir.
 
 📸 **Görseller:**
-- ![Tuz-Biber Gürültülü Görsel](Gürültülü%20filtreli%20ve%20orjinal%20resimler/Tuz%20Biber%20var.png)
+- ![Tuz-Biber Gürültülü Görsel](Gürültülü%20filtreli%20ve%20orjinal%20resimler/tuz%20Biber%20var.png)
 
 ---
 
