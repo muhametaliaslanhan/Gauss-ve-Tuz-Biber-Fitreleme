@@ -108,7 +108,8 @@ Bu sıralama ile hem ani keskin değişimler hem de düşük seviyeli sapmalar g
 **Gerekenler:**
 
 ```
-pip install opencv-python numpy 
+pip install opencv-python numpy matplotlib
+
 ```
 
 Çalıştırmak için:
