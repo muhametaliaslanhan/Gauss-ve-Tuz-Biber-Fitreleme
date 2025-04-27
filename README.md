@@ -48,7 +48,7 @@ Bazı piksellerin tamamen siyah (0) veya beyaz (255) olmasıyla oluşur.
 - Rastgele seçilen koordinatlar değiştirilir.
 
 📸 **Görseller:**
-- ![Tuz-Biber Gürültülü Görsel](Gürültülü%20filtreli%20ve%20orjinal%20resimler/tuz%20Biber%20var.png)
+- ![Tuz-Biber Gürültülü Görsel](Gürültülü%20filtreli%20ve%20orjinal%20resimler/tuz%20biber%20var.png)
 
 ---
 
@@ -79,7 +79,7 @@ Bu sıralama ile hem ani keskin değişimler hem de düşük seviyeli sapmalar g
 
 📸 **Görseller:**
 - ![Çift Katmanlı Hibrit Doğru Uygulama](Gürültülü%20filtreli%20ve%20orjinal%20resimler/dogru%20ikinci.png)
-- ![Çift Katmanlı Hibrit Yanlış Uygulama](Gürültülü%20filtreli%20ve%20orjinal%20resimler/yanlıs%20ikinci.png)
+- ![Çift Katmanlı Hibrit Yanlış Uygulama](Gürültülü%20filtreli%20ve%20orjinal%20resimler/yanlis%20ikinci.png)
 
 ---
 
