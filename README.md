@@ -35,7 +35,7 @@ Gauss gürültüsü, görüntüdeki piksellerin rastgele sapmalar göstermesiyle
 > - Mean genellikle **-30 ile +30** arası
 > - Sigma genellikle **5 ile 50** arası değer alır.
 
-📸 **Görseller:**
+**Görseller:**
 - ![Orijinal Görsel](Gürültülü%20filtreli%20ve%20orjinal%20resimler/orjinal.png)
 - ![Gauss Gürültülü Görsel](Gürültülü%20filtreli%20ve%20orjinal%20resimler/gauss.png)
 
@@ -47,7 +47,7 @@ Bazı piksellerin tamamen siyah (0) veya beyaz (255) olmasıyla oluşur.
 - **salt_prob** ve **pepper_prob** oranları belirlenerek gürültü yoğunluğu ayarlanır.
 - Rastgele seçilen koordinatlar değiştirilir.
 
-📸 **Görseller:**
+**Görseller:**
 - ![Tuz-Biber Gürültülü Görsel](Gürültülü%20filtreli%20ve%20orjinal%20resimler/tuz%20biber%20var.png)
 
 ---
@@ -57,7 +57,7 @@ Bazı piksellerin tamamen siyah (0) veya beyaz (255) olmasıyla oluşur.
 Gaussian filtre, piksellerin ağırlıklı ortalama değerlerini alarak görüntüyü yumuşatır.  
 Detay kaybına yol açabilir ancak Gauss gürültüsünü etkin şekilde azaltır.
 
-📸 **Görseller:**
+**Görseller:**
 - ![Gaussian Filtre Sonrası](Gürültülü%20filtreli%20ve%20orjinal%20resimler/gauss%20filtresi.png)
 
 ---
@@ -67,7 +67,7 @@ Detay kaybına yol açabilir ancak Gauss gürültüsünü etkin şekilde azaltı
 Medyan filtre, küçük bir pencere içindeki pikselleri sıralar ve ortanca (medyan) değeri seçerek gürültüyü azaltır.  
 Özellikle Tuz-Biber gürültüsünde oldukça etkilidir.
 
-📸 **Görseller:**
+**Görseller:**
 - ![Medyan Filtre Sonrası](Gürültülü%20filtreli%20ve%20orjinal%20resimler/medyan%20filtresi.png)
 
 ---
@@ -77,7 +77,7 @@ Medyan filtre, küçük bir pencere içindeki pikselleri sıralar ve ortanca (me
 İlk olarak Medyan Filtre, ardından Gauss Filtre uygulanır.  
 Bu sıralama ile hem ani keskin değişimler hem de düşük seviyeli sapmalar giderilir.
 
-📸 **Görseller:**
+**Görseller:**
 - ![Çift Katmanlı Hibrit Doğru Uygulama](Gürültülü%20filtreli%20ve%20orjinal%20resimler/dogru%20ikinci.png)
 - ![Çift Katmanlı Hibrit Yanlış Uygulama](Gürültülü%20filtreli%20ve%20orjinal%20resimler/yanlis%20ikinci.png)
 
@@ -125,16 +125,7 @@ Açılan sayfada proje dosyasını (proje.ipynb) açıp adım adım çalıştır
 Örnek Çıktılar
 Tüm çıktı görselleri Gürültülü filtreli ve orjinal resimler/ klasörü içerisinde bulunmaktadır.
 
-Gürültülü filtreli ve orjinal resimler/
-├── orijinal.png
-├── gauss.png
-├── Tuz-Biber var.png
-├── medyan filtresi.png
-├── gauss filtresi.png
-├── dogru ilk katman.png
-├── dogru ikinci.png
-├── yanlış ilk .png
-├── yanlış ikinci.png
+Gürültülü filtreli ve orjinal resimler/ ├── orijinal.png ├── gauss.png ├── Tuz-Biber var.png ├── medyan filtresi.png ├── gauss filtresi.png ├── dogru ilk katman.png ├── dogru ikinci.png ├── yanlış ilk .png ├── yanlış ikinci.png
 
 
 
