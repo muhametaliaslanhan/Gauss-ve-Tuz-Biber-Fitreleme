@@ -127,7 +127,16 @@ Tüm çıktı görselleri Gürültülü filtreli ve orjinal resimler/ klasörü 
 
 ## **Dosya Yapısı**
 ```
-Gürültülü filtreli ve orjinal resimler/ ├── orijinal.png ├── gauss.png ├── Tuz-Biber var.png ├── medyan filtresi.png ├── gauss filtresi.png ├── dogru ilk katman.png ├── dogru ikinci.png ├── yanlış ilk .png ├── yanlış ikinci.png
+Gürültülü filtreli ve orjinal resimler/
+├── orijinal.png
+├── gauss.png
+├── Tuz-Biber var.png
+├── medyan filtresi.png
+├── gauss filtresi.png
+├── dogru ilk katman.png
+├── dogru ikinci.png
+├── yanlış ilk .png
+├── yanlış ikinci.png
 ```
 
 
